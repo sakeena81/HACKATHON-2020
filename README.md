@@ -14,18 +14,16 @@ As a team, we looked back at our first three months of TDP,and reflected on what
 Development Role/Branding & Marketing
 
 ## My Contribution
-The Hackathon is where I felt that I FINALLY shined in my time at academy, the idea of a Hackathon at first terrified me. My biggest concern was...**IM NOT TECCHY!!** BUUUUTTTT... I actually found firstly that *'Hackathons* are not just for the technically able, and as a result through this i actually had something to bring to the table, and that was my creative side. Thus, I took on the marketing and branding side of things. 
+The Hackathon is where I felt that I FINALLY shined in my time at academy, the idea of a Hackathon at first terrified me. My biggest concern was...**IM NOT TECCHY!!** BUUUUTTTT... I actually found firstly that *'Hackathons* are not just for the technically able, and as a result through this I actually had something to bring to the table, and that was my creative and collaborative side. Thus, I took on the marketing and branding side of things. 
 
-**First the name!** Playing on the factor that the platform was to be a friendly, non-judgy and community based tool, I pitched the name, the rest of the group gave me a thumbs up **👍** and IT-AMIGOS was now an official brand! 
+**First the name!** Playing on the factor that the platform was to be a friendly, non-judgy and community based tool, I pitched the name, the rest of the group gave me a thumbs up **👍** and IT-AMIGOS became the official name! 
 
 **Next the Logo!** 
-*I reached out to a member from another Hack Team, thanks to @jackpatrickcanning who listened and helped turn an idea in my head into a digital professional logo, below **⤵️** is the final approval. 
+I reached out to a member from another Hack Team, thanks to @jackpatrickcanning who listened and helped turn an idea in my head into a digital professional logo, below **⤵️** is the final approval. 
  
  ![Apps run](/IMAGES/amigo.jpg)
 
-## Final Thoughts
-
-**Power of Collaboration...**
+## The Power of Collaboration...
 
 **1)** The most important factor of the Hackathon, is the power of collaboration, it is the key to the success of ideas no matter how *'out-there'* said idea could be. If not for working in a group, I wouldnt have learned about '*wireframes'*, something that we hadnt even touched in academy. just seeing and being introduced to how a wire frame is designed, made logical sense as a web developer.
 
@@ -37,7 +35,7 @@ The Hackathon is where I felt that I FINALLY shined in my time at academy, the i
 
 
 ## Additional Contributions...
-During Academy I attended a course on UML, *Unified Modelling Language*, where the use of diagrams can visually aid developers and product owners of how a software/system should function, taking what I had learned, I was able to design from another team members  *user stories* a architectural use case story as part of the compilation of information for *would-be* developers. **⤵️**
+During Academy I attended a course on UML, *Unified Modelling Language*, where the use of diagrams can visually aid developers and product owners of how a software/system should function, taking what I had learned, I was able to design from another team members  *user stories* an architectural *use-case* story as part of the compilation of information for *would-be* developers. **⤵️**
 
 ![Apps run](/IMAGES/UML1.png)
  
