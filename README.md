@@ -40,7 +40,11 @@ During Academy I attended a course on UML, *Unified Modelling Language*, where t
 ![Apps run](/IMAGES/UML1.png)
 
 
- ## Final Thoughts
+ ## Final Thoughts **💭**
+Overall, it was a fun experience, and as *cliche* as it sounds to win something would have been nice, but taking part is what counted. 
+
+A Hackathon is a good test of soft-skills, being able to learn from each, listen to each other, collaborate and work as a team, making sure as well that everyone has a voice and can communicate their ideas too. I hope to be able to take part in another one or atleast be part of a playback. Thanks for reading this far down my Github, and hope that it helped in learning about how brilliant and exciting Hackathons are. 
+ 
   
 Copyright (c) 2020 **_Sakeena Ali_**
 
