@@ -25,7 +25,7 @@ The Hackathon is where I felt that I FINALLY shined in my time at academy, the i
 
 ## Final Thoughts
 
-**Power of Collaboration...
+**Power of Collaboration...**
 
 **1)** The most important factor of the Hackathon, is the power of collaboration, it is the key to the success of ideas no matter how *'out-there'* said idea could be. If not for working in a group, I wouldnt have learned about '*wireframes'*, something that we hadnt even touched in academy. just seeing and being introduced to how a wire frame is designed, made logical sense as a web developer.
 
