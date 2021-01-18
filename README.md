@@ -37,7 +37,7 @@ The Hackathon is where I felt that I FINALLY shined in my time at academy, the i
 
 
 ## Additional Contributions...
-During Academy I attended a course on UML, *Unified Modelling Language*, where the use of diagrams can visually aid developers and product owners of how a software/system should function, taking whaty I had learned, I was able to design from another team members  *user stories* a architectural use case story as part of the compilation of information for *would-be* developers. **⤵️**
+During Academy I attended a course on UML, *Unified Modelling Language*, where the use of diagrams can visually aid developers and product owners of how a software/system should function, taking what I had learned, I was able to design from another team members  *user stories* a architectural use case story as part of the compilation of information for *would-be* developers. **⤵️**
 
  ![Apps run](/IMAGES/UML.png)
  
