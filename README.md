@@ -24,7 +24,9 @@ The Hackathon is where I felt that I FINALLY shined in my time at academy, the i
  ![Apps run](/IMAGES/amigo.jpg)
 
 ## Final Thoughts
+
 **Power of Collaboration...
+
 **1)** The most important factor of the Hackathon, is the power of collaboration, it is the key to the success of ideas no matter how *'out-there'* said idea could be. If not for working in a group, I wouldnt have learned about '*wireframes'*, something that we hadnt even touched in academy. just seeing and being introduced to how a wire frame is designed, made logical sense as a web developer.
 
 **2)** Collaboration is not just for your own team, as mentioned I reached outside of my own group for help on the digital logo. After all **(collaboration is key)** and the logo as you can see became central in our presentation **⤵️**
@@ -34,9 +36,12 @@ The Hackathon is where I felt that I FINALLY shined in my time at academy, the i
 **3)** Working with fellow team members who had training in security concerns, were also key people to learn from. As we hacked together the platform idea on the go, those on the devops stream with recent training were able to identify possible security concerns as we developed along the way e.g. they placed sql injections on the sign up page"
 
 
+## Additional Contributions...
+During Academy I attended a course on UML, *Unified Modelling Language*, where the use of diagrams can visually aid developers and product owners of how a software/system should function, taking whaty I had learned, I was able to design from another team members  *user stories* a architectural use case story as part of the compilation of information for *would-be* developers. **⤵️**
 
-
-
+ ![Apps run](/IMAGES/UML.png)
+ 
+ 
 Copyright (c) 2020 **_Sakeena Ali_**
 
 
