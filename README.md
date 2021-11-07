@@ -39,6 +39,10 @@ During Academy I attended a course on UML, *Unified Modelling Language*, where t
 
 ![Apps run](/IMAGES/UML1.png)
 
+## Feedback I recieved
+
+ ![Apps run]
+
 
  ## Final Thoughts **💭**
 Overall, it was a fun experience, and as *cliche* as it sounds to win something would have been nice, but taking part is what counted. 
