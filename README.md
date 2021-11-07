@@ -41,7 +41,7 @@ During Academy I attended a course on UML, *Unified Modelling Language*, where t
 
 ## Feedback I recieved
 
- ![](/IMAGES/HACKATHONFEEDBACK.png)
+ ![](/IMAGES/HACKATHON FEEDBACK.png)
 
 
  ## Final Thoughts **💭**
